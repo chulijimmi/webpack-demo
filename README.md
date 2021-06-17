@@ -18,6 +18,8 @@ npm run build:production
 
 ## Reference
 
-Webpack
-https://webpack.js.org/guides/getting-started/
-https://webpack.js.org/guides/typescript/#root
+- Webpack getting started
+  https://webpack.js.org/guides/getting-started/
+
+- webpack typescript
+  https://webpack.js.org/guides/typescript/#root
